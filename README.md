@@ -1,5 +1,4 @@
-# Intro-Analises
- 1° analise de negocio, habituando com o funcionameto da biblioteca pandas.
+# Início em analises de negócios, habituando com o funcionameto da biblioteca pandas.
 Ultilizei datasets publicos da microsoft para estudos e no tema de vendas de serviços 'Contoso'
 
 Já na segunda análise exploratória, apartir de condições, introduzi técnicas de series temporais para enrriquecer as conclusões.
