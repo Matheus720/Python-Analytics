@@ -9,9 +9,7 @@ Ambas as bases de dados podem ser encontradas na pasta desse mesmo repositório.
 A análise de vendas para o período de janeiro a junho de 2023 mostrou que o e-commerce obteve um total de R$2.500.000,00 em vendas. 
 Os produtos eletrônicos foram os principais contribuintes para essas vendas, representando 40% do total, ou R$1.000.000,00. 
 Outras categorias de produtos que tiveram boas vendas incluíram roupas (25% ou R$625.000,00) e sapatos (15% ou R$375.000,00).
-A análise de vendas para o período de janeiro a junho de 2023 mostrou que o e-commerce obteve um total de R$2.500.000,00 em vendas. 
-Os produtos eletrônicos foram os principais contribuintes para essas vendas, representando 40% do total, ou R$1.000.000,00.
-Outras categorias de produtos que tiveram boas vendas incluíram roupas (25% ou R$625.000,00) e sapatos (15% ou R$375.000,00).
+
 Dentro das roupas, os produtos de vestuário feminino tiveram melhores resultados, representando 35% das vendas de roupas, ou R$218.750,00. E os sapatos, os tênis foram os que mais se destacaram, representando 25% das vendas, ou R$93.750,00.
 
 Os principais clientes foram aqueles que vivem no Estado de São Paulo, representando 35% das vendas totais. Os clientes do Rio de Janeiro e Minas Gerais também foram importantes, representando 15% e 10% das vendas, respectivamente. A maioria das vendas foi gerada através do tráfego orgânico do Google, representando 40% das vendas, seguido por tráfego direto (25%) e tráfego de mídia social (20%).
